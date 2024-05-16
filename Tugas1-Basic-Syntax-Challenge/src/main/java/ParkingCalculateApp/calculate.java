@@ -13,7 +13,7 @@ public class calculate {
         scanner.close();
 
         // Else if method to calculate the parking charge based on the charges duration rules
-        double charge;
+        double charge; // Variable to store the charge
         if (duration <= 5){
             charge = 1;
         } else if (duration < 24 ) {
@@ -24,6 +24,5 @@ public class calculate {
 
         // Tell customer the total parking charge
         System.out.println("Great! Your parking charge will be cost $" + charge + " 🪙");
-
     }
 }
