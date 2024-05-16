@@ -1,1 +1,1 @@
-# F-QAE24001120-synrgy7-rin-qa-ch5
+# Welcome to my Quality Assurance Learning Repository! 🚀
